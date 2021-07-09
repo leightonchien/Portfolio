@@ -39,7 +39,7 @@ It is here in Vancouver he took to heart how beautiful it is to connect with peo
               <img
                 className="object-cover object-center rounded"
                 alt="hero"
-                src="./coding.svg"
+                src="./Avatar.jpg"
               />
             </div>
           </div>
