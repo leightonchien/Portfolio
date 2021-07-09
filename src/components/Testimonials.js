@@ -1,4 +1,4 @@
-// src/components/Gallery.js
+// src/components/Testimonials
 
 import React from "react";
 import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
